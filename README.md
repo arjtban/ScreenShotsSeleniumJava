@@ -62,4 +62,4 @@ testdoc/
 
 
 ✨ This repo is my personal Selenium snippet archive.
-More eaxmple will be added, if I work on this in again . 🚀
+More eaxmple will be added, if I work on this again . 🚀
